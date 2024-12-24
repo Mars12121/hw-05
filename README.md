@@ -24,6 +24,7 @@
 ### Требования к результату
 - [ ] Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending
 
+![alt text](https://github.com/Mars12121/hw-05/blob/main/img/1.png)
 ---
 
 ### Задание 2
@@ -32,6 +33,9 @@
 ### Требования к результату
 - [ ] Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения
 
+![alt text](https://github.com/Mars12121/hw-05/blob/main/img/2.png)
+
+![alt text](https://github.com/Mars12121/hw-05/blob/main/img/3.png)
 ---
 
 ### Задание 3
@@ -41,6 +45,9 @@
 ### Требования к результату
 - [ ] приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+![alt text](https://github.com/Mars12121/hw-05/blob/main/img/4.png)
+
+![alt text](https://github.com/Mars12121/hw-05/blob/main/img/5.png)
 ---
 
 ### Задание 4* (со звездочкой)
